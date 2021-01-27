@@ -28,8 +28,8 @@
       "path": "lang/es.json"
     }
    ],
-  "changelog":"https://raw.githubusercontent.com/wsaunders1014/ShowDragDistance/master/README.md",
-  "url":"https://github.com/wsaunders1014/ShowDragDistance",
-  "manifest":"https://raw.githubusercontent.com/wsaunders1014/ShowDragDistance/master/module.json",
-  "download":"https://github.com/wsaunders1014/ShowDragDistance/releases/download/2.2.3/ShowDragDistance.zip"
+  "changelog":"https://raw.githubusercontent.com/andrew-anguiano/ShowDragDistance/master/README.md",
+  "url":"https://github.com/andrew-anguiano/ShowDragDistance",
+  "manifest":"https://raw.githubusercontent.com/andrew-anguiano/ShowDragDistance/master/module.json",
+  "download":"https://github.com/andrew-anguiano/ShowDragDistance/releases/download/2.2.4-beta/ShowDragDistance.zip"
 }
